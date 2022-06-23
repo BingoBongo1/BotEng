@@ -55,25 +55,7 @@ namespace BotEng
 
         }
 
-        //public void ReadWords()
-        //{
-
-        //    //using (StreamReader read = new StreamReader(_path))
-        //    //    while (!read.EndOfStream) 
-        //    //      Console.WriteLine(read.ReadLine());
-
-        //    using (FileStream fstream = File.OpenRead(_path))
-        //    {
-
-        //        byte[] buffer = new byte[fstream.Length];
-
-        //        fstream.Read(buffer, 0, buffer.Length);
-
-        //        string textFromFile = Encoding.Default.GetString(buffer);
-                
-        //    }
-           
-        //}
+       
 
         public void DellWord1(string eng, string rus)
         {

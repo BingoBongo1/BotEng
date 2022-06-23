@@ -27,10 +27,7 @@ namespace BotEng
            
         }
 
-        //public void ReadWords()
-        //{
-        //    _storage.ReadWords();
-        //}
+       
 
         public void DellWord()
         {

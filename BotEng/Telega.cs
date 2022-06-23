@@ -117,9 +117,7 @@ namespace BotEng
                     text = DellWords(msArgs);
                     break;
 
-                //case "/myword":
-                //    text = ReadWords(msArgs);
-                //    break;
+               
 
                 case "/dellW":
                     text = DellWords1(msArgs);
@@ -193,14 +191,7 @@ namespace BotEng
 
         }
 
-        //private static string ReadWords(String[] msArr)
-        //{
-        //    if (msArr.Length >= 0)
-        //        Tutor.ReadWords();
-        //    return "Ваш список слов";
-
-
-        //}
+      
 
         private static string DellWords(String[] msArr)
         {
